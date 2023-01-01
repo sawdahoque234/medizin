@@ -73,7 +73,7 @@ const Header = () => {
                   <AiOutlineUserAdd className="fs-5" />
                 </button>
               </Link>
-              <a href="https://www.mindbowser.com/adding-multi-language-support-using-reactjs/">
+              <a href="hoque-medizin.netlify.app">
                 <button class="btn btn-outline-primary " type="button">
                   {t("saudi")}
                 </button>
