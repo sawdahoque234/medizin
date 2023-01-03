@@ -73,7 +73,7 @@ const Header = () => {
                   <AiOutlineUserAdd className="fs-5" />
                 </button>
               </Link>
-              <a href="hoque-medizin.netlify.app">
+              <a href="https://medizin-saudi.netlify.app/">
                 <button class="btn btn-outline-primary " type="button">
                   {t("saudi")}
                 </button>
